@@ -1,1 +1,3 @@
-# r-place_v2
+Jake Aaknes
+Nick Seah
+Ashkan Taghavi
